@@ -10,7 +10,7 @@
 ---
 
 # Issues
-## [Ch1] 1.5 디폴트 메서드
+## [Ch1] 1.5 디폴트 메서드(https://github.com/BanditBool2/ReadingRecord/issues/4#)
 - https://velog.io/@yean13/%EB%94%94%ED%8F%B4%ED%8A%B8-%EB%A9%94%EC%84%9C%EB%93%9C
 
 ## [CH1] 1.3.2 프레디케이트(predicate)는 모든 함수를 담을 수 있는 타입인가요??(https://github.com/BanditBool2/ReadingRecord/issues/3)
