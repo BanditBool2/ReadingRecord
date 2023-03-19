@@ -13,3 +13,6 @@
 
 ## [Ch1] 1.4 내부 반복과 외부 반복(https://github.com/BanditBool2/ReadingRecord/issues/5#)
 - https://velog.io/@kkambbak1/%EB%82%B4%EB%B6%80-%EB%B0%98%EB%B3%B5%EA%B3%BC-%EC%99%B8%EB%B6%80-%EB%B0%98%EB%B3%B5
+
+## [Ch1] 1.3.1 메서드와 람다를 일급시민으로 (https://github.com/BanditBool2/ReadingRecord/issues/6#)
+- https://velog.io/@chaewon222/CH1-1.3.1-메서드와-람다를-일급-시민으로
