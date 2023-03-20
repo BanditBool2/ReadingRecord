@@ -21,3 +21,6 @@
 
 ## [Ch1] 1.3.1 메서드와 람다를 일급시민으로 (https://github.com/BanditBool2/ReadingRecord/issues/6#)
 - https://velog.io/@chaewon222/CH1-1.3.1-메서드와-람다를-일급-시민으로
+
+## [Ch1] 1.6 패턴 매칭 (https://github.com/BanditBool2/ReadingRecord/issues/7#)
+- https://velog.io/@wlstj0901/CH1-1.6-%ED%8C%A8%ED%84%B4-%EB%A7%A4%EC%B9%ADPattern-Matching
