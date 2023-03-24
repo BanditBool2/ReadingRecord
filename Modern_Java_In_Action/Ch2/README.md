@@ -10,3 +10,5 @@
 ---
 
 ## Issues
+## [Ch2] 2.3.1 익명 클래스에 대해 (https://github.com/BanditBool2/ReadingRecord/issues/#8)
+- https://velog.io/@chaewon222/CH2-2.3.1-익명-클래스에-대해
