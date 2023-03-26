@@ -11,7 +11,7 @@
 
 ## Issues
 ## [CH2] 2.3.2 다섯 번째 시도 : 익명 클래스 사용 (https://github.com/BanditBool2/ReadingRecord/issues/12#)
-- https://velog.io/@yean13/%EC%9D%B5%EB%AA%85-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%82%AC%EC%9A%A9
+- https://velog.io/@yean13/익명-클래스-사용
 
 ## [Ch2] 2.3.1 익명 클래스에 대해(https://github.com/BanditBool2/ReadingRecord/issues/8#)
 - https://velog.io/@chaewon222/CH2-2.3.1-익명-클래스에-대해
