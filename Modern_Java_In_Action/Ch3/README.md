@@ -13,3 +13,6 @@
 ## Issues
 ## [CH3] 3.5.3 형식 추론 (https://github.com/BanditBool2/ReadingRecord/issues/14#)
 - https://velog.io/@wlstj0901/CH3-3.5.3-형식-추론
+
+## [CH3] 함수형 인터페이스와 메서드 참조 (https://github.com/BanditBool2/ReadingRecord/issues/11#)
+- https://velog.io/@chaewon222/CH3-함수형-인터페이스와-메서드-참조
