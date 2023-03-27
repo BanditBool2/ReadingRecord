@@ -11,3 +11,5 @@
 ---
 
 ## Issues
+## [CH3] 3.5.3 형식 추론 (https://github.com/BanditBool2/ReadingRecord/issues/14#)
+- https://velog.io/@wlstj0901/CH3-3.5.3-형식-추론
