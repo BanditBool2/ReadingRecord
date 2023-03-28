@@ -26,18 +26,18 @@
 
 - 1주차에 1챕터씩 ( 내용에 따라 분량에 조절이 있을수 있음)
 
-| Week | 주제                                                                                              | 세부항목 |
-| --- |-------------------------------------------------------------------------------------------------| --- |
-| 1 | [CHAPTER 1](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/Ch1)   | - 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가? |
-| 2 | [CHAPTER 2](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/Ch2)   | - 동작 파라미터화 코드 전달하기 |
-| 3 | [CHAPTER 3](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/Ch3)   | - 람다 표현식 |
-| 4 | [CHAPTER 4](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/Ch4)   | - 스트림 소개 |
-| 5 | CHAPTER 5                                                                                       | - 스트림 활용 |
-| 6 | CHAPTER 6                                                                                       | - 스트림으로 데이터 수집 |
-| 7 | CHAPTER 7                                                                                       | - 병렬 데이터 처리와 성능 |
-| 8 | CHAPTER 8                                                                                       | - 컬렉션 API 개선 |
-| 9 | CHAPTER 9                                                                                       | - 리팩터링, 테스팅, 디버깅 |
-| 10 | CHAPTER 10                                                                                      | - 람다를 이용한 도메인 전용 언어 |
+| Week | 주제                                                                                                                      | 세부항목 |
+| --- |-------------------------------------------------------------------------------------------------------------------------| --- |
+| 1 | [CHAPTER 1](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch1) | - 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가? |
+| 2 | [CHAPTER 2](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch2) | - 동작 파라미터화 코드 전달하기 |
+| 3 | [CHAPTER 3](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch3) | - 람다 표현식 |
+| 4 | [CHAPTER 4](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch4) | - 스트림 소개 |
+| 5 | CHAPTER 5                                                                                                               | - 스트림 활용 |
+| 6 | CHAPTER 6                                                                                                               | - 스트림으로 데이터 수집 |
+| 7 | CHAPTER 7                                                                                                               | - 병렬 데이터 처리와 성능 |
+| 8 | CHAPTER 8                                                                                                               | - 컬렉션 API 개선 |
+| 9 | CHAPTER 9                                                                                                               | - 리팩터링, 테스팅, 디버깅 |
+| 10 | CHAPTER 10                                                                                                              | - 람다를 이용한 도메인 전용 언어 |
 
 ---
 
