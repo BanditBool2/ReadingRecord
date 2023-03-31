@@ -19,3 +19,6 @@
 
 ## [CH3] 3.1 람다 문법 규칙에 맞지 않는 표현식 찾기 (https://github.com/BanditBool2/ReadingRecord/issues/9#)
 - https://velog.io/@bng4535/CH3-3.1-%EB%9E%8C%EB%8B%A4-%EB%AC%B8%EB%B2%95-%EA%B7%9C%EC%B9%99%EC%97%90-%EB%A7%9E%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%91%9C%ED%98%84%EC%8B%9D-%EC%B0%BE%EA%B8%B0
+
+## [Ch3] 3.5 퀴즈 3-5 메소드 오버로딩 (https://github.com/BanditBool2/ReadingRecord/issues/13)
+- https://velog.io/@kkambbak1/3.5-퀴즈-3-5-메소드-오버로딩
