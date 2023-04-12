@@ -12,3 +12,6 @@
 ## Issues
 ## [Ch 5] 5.8.5 함수로 무한 스트림 만들기 (https://github.com/BanditBool2/ReadingRecord/issues/24#)
 - https://velog.io/@yean13/함수로-무한-스트림-만들기
+  
+## [Ch 5] 5.7.3 숫자 스트림 활용: 피타고라스(https://github.com/BanditBool2/ReadingRecord/issues/23#)
+- https://velog.io/@kkambbak1/5.7.3-숫자-스트림-활용-피타고라스
