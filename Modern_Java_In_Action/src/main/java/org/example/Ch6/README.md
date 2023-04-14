@@ -12,3 +12,6 @@
 ## Issues
 ## [Ch 6] 6.5.1 finisher 메서드 (https://github.com/BanditBool2/ReadingRecord/issues/31#)
 - https://velog.io/@kkambbak1/Ch6-6.5.1-finisher-메서드
+
+## [Ch 6] 6.4.1 분할의 장점 (https://github.com/BanditBool2/ReadingRecord/issues/29#)
+- https://velog.io/@chaewon222/Ch6-6.4.1-분할의-장점
