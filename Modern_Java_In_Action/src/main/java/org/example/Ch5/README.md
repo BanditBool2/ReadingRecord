@@ -15,3 +15,6 @@
   
 ## [Ch 5] 5.7.3 숫자 스트림 활용: 피타고라스(https://github.com/BanditBool2/ReadingRecord/issues/23#)
 - https://velog.io/@kkambbak1/5.7.3-숫자-스트림-활용-피타고라스
+
+## [Ch 5] 5.4.3 요소 검색 (https://github.com/BanditBool2/ReadingRecord/issues/28#)
+- https://velog.io/@chaewon222/Ch5-5.4.3-요소-검색
