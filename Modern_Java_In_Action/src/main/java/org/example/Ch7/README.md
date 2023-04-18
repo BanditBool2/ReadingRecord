@@ -9,3 +9,5 @@
 ---
 
 ## Issues
+## [Ch 7] 7.3.1 분할 과정 (https://github.com/BanditBool2/ReadingRecord/issues/36#)
+- https://velog.io/@chaewon222/Ch-7-7.3.1-분할-과정
