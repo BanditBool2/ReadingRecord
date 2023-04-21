@@ -11,3 +11,6 @@
 ## Issues
 ## [Ch 7] 7.3.1 분할 과정 (https://github.com/BanditBool2/ReadingRecord/issues/36#)
 - https://velog.io/@chaewon222/Ch-7-7.3.1-분할-과정
+
+## [Ch 7] 7.1.2 스트림 성능 측정 (https://github.com/BanditBool2/ReadingRecord/issues/37#)
+- https://velog.io/@wlstj0901/CH7-7.1.2-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95
