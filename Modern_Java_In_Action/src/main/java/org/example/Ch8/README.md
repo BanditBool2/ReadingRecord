@@ -9,3 +9,5 @@
 
 ---
 ## Issues8
+## [Ch 8] 8.4.2 계수 (https://github.com/BanditBool2/ReadingRecord/issues/43#)
+- https://velog.io/@wlstj0901/CH8-8.4.2-계수
