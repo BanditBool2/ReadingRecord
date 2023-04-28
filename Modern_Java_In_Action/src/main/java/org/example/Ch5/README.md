@@ -18,3 +18,6 @@
 
 ## [Ch 5] 5.4.3 요소 검색 (https://github.com/BanditBool2/ReadingRecord/issues/28#)
 - https://velog.io/@chaewon222/Ch5-5.4.3-요소-검색
+
+## [Ch 5] 5.52 스트림 연산 (https://github.com/BanditBool2/ReadingRecord/issues/41#)
+- https://velog.io/@chaewon222/Ch5-5.52-스트림-연산
