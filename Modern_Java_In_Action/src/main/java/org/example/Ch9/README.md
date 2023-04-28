@@ -10,3 +10,6 @@
 
 ---
 ## Issues
+
+## [Ch 9] 9.2.4 의무 체인 (https://github.com/BanditBool2/ReadingRecord/issues/47#)
+- https://velog.io/@yean13/의무-체인
