@@ -15,3 +15,7 @@
 
 ## [Ch4] 4.3 스트림과 컬렉션의 차이 (https://github.com/BanditBool2/ReadingRecord/issues/22#)
 - https://velog.io/@chaewon222/Ch4-4.3-스트림과-컬렉션-차이
+
+## [Ch 4] 4.3.2 외부 반복과 내부 반복 (https://github.com/BanditBool2/ReadingRecord/issues/42#)
+- https://velog.io/@yean13/외부-반복과-내부-반복
+
