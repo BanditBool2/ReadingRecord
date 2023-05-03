@@ -13,3 +13,6 @@
 
 ## [Ch 9] 9.2.4 의무 체인 (https://github.com/BanditBool2/ReadingRecord/issues/47#)
 - https://velog.io/@yean13/의무-체인
+
+## [Ch 9] 9.2.2 람다로 객체지향 디자인 패턴 리팩터링하기 (https://github.com/BanditBool2/ReadingRecord/issues/45#)
+- https://velog.io/@wlstj0901/CH9-9.2.2-람다로-객체지향-디자인-패턴-리팩터링하기
