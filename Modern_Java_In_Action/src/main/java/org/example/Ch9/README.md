@@ -16,3 +16,6 @@
 
 ## [Ch 9] 9.2.2 람다로 객체지향 디자인 패턴 리팩터링하기 (https://github.com/BanditBool2/ReadingRecord/issues/45#)
 - https://velog.io/@wlstj0901/CH9-9.2.2-람다로-객체지향-디자인-패턴-리팩터링하기
+
+## [Ch9] 9.2.5 팩토리 패턴 (https://github.com/BanditBool2/ReadingRecord/issues/46#)
+- https://velog.io/@kkambbak1/Ch9-9.2.5-팩토리-패턴
