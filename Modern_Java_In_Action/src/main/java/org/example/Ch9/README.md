@@ -19,3 +19,6 @@
 
 ## [Ch9] 9.2.5 팩토리 패턴 (https://github.com/BanditBool2/ReadingRecord/issues/46#)
 - https://velog.io/@kkambbak1/Ch9-9.2.5-팩토리-패턴
+
+## [Ch 9] 9.2.4 의무 체인_람다 표현식 사용 (https://github.com/BanditBool2/ReadingRecord/issues/49#)
+- https://velog.io/@chaewon222/Ch-9-9.2.4-의무-체인람다-표현식-사용
