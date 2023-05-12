@@ -13,5 +13,5 @@
 ## Issues
 ---
 
-## [Ch 10] 10.3.3 람다 표현식을 이용한 함수 시퀀싱 (https://github.com/BanditBool2/ReadingRecord/issues/41#)
+## [Ch 10] 10.3.3 람다 표현식을 이용한 함수 시퀀싱 (https://github.com/BanditBool2/ReadingRecord/issues/51#)
 - https://velog.io/@yean13/람다-표현식을-이용한-함수-시퀀싱
