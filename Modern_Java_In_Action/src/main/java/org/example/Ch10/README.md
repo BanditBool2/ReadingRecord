@@ -18,3 +18,6 @@
 
 ## [Ch 10] 10.4.1 jOOQ (https://github.com/BanditBool2/ReadingRecord/issues/50#)
 - https://velog.io/@wlstj0901/CH10-10.4.1-jOOQ
+
+## [Ch10] 10.3.2 더미메소드? (https://github.com/BanditBool2/ReadingRecord/issues/52#)
+- https://velog.io/@kkambbak1/Ch10-10.3.2-더미메소드
