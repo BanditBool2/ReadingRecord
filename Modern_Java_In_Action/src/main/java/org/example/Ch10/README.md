@@ -15,3 +15,6 @@
 
 ## [Ch 10] 10.3.3 람다 표현식을 이용한 함수 시퀀싱 (https://github.com/BanditBool2/ReadingRecord/issues/51#)
 - https://velog.io/@yean13/람다-표현식을-이용한-함수-시퀀싱
+
+## [Ch 10] 10.4.1 jOOQ (https://github.com/BanditBool2/ReadingRecord/issues/50#)
+- https://velog.io/@wlstj0901/CH10-10.4.1-jOOQ
