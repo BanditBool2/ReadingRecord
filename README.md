@@ -26,29 +26,31 @@
 
 - 1주차에 1챕터씩 ( 내용에 따라 분량에 조절이 있을수 있음)
 
-| Week | 주제                                                                                                                    | 세부항목 |
-| --- |-----------------------------------------------------------------------------------------------------------------------| --- |
-| 1 | [CHAPTER 1](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch1) | - 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가? |
-| 2 | [CHAPTER 2](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch2) | - 동작 파라미터화 코드 전달하기 |
-| 3 | [CHAPTER 3](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch3) | - 람다 표현식 |
-| 4 | [CHAPTER 4](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch4) | - 스트림 소개 |
-| 5 | [CHAPTER 5](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch5) | - 스트림 활용 |
-| 6 | [CHAPTER 6](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch6) | - 스트림으로 데이터 수집 |
-| 7 | [CHAPTER 7](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch7) | - 병렬 데이터 처리와 성능 |
-| 8 | [CHAPTER 8](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch8) | - 컬렉션 API 개선 |
-| 9 | [CHAPTER 9](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch9) | - 리팩터링, 테스팅, 디버깅 |
-| 10 | CHAPTER 10                                                                                                            | - 람다를 이용한 도메인 전용 언어 |
+| Week | 주제                                                                                                                        | 세부항목 |
+|------|---------------------------------------------------------------------------------------------------------------------------| --- |
+| 1    | [CHAPTER 1](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch1)   | - 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가? |
+| 2    | [CHAPTER 2](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch2)   | - 동작 파라미터화 코드 전달하기 |
+| 2    | [CHAPTER 3](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch3)   | - 람다 표현식 |
+| 3    | [CHAPTER 4](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch4)   | - 스트림 소개 |
+| 3    | [CHAPTER 5](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch5)   | - 스트림 활용 |
+| 4    | [CHAPTER 6](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch6)   | - 스트림으로 데이터 수집 |
+| 5    | [CHAPTER 7](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch7)   | - 병렬 데이터 처리와 성능 |
+| 6    | [CHAPTER 8](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch8)   | - 컬렉션 API 개선 |
+| 7    | [CHAPTER 9](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch9)   | - 리팩터링, 테스팅, 디버깅 |
+| 8    | [CHAPTER 10](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch10) | - 람다를 이용한 도메인 전용 언어 |
+| 9    | [CHAPTER 11](https://github.com/BanditBool2/ReadingRecord/tree/main/Modern_Java_In_Action/src/main/java/org/example/Ch11) | - null 대신 Optional 클래스 |
 
 ---
 
 **Ch1** 2023.03.15 ~ 2023.03.17  
 **Ch2, 3** 2023.03.18 ~ 2023.03.24  
-**Ch4, 5** 2023.03.25 ~ 2023.03.31
-**Ch6** 2023.04.01 ~ 2023.04.07
-**Ch7** 2023.04.08 ~ 2023.04.14
-**Ch8** 2023.04.15 ~ 2023.04.21
-**Ch9** 2023.04.22 ~ 2023.04.28
-
+**Ch4, 5** 2023.03.25 ~ 2023.03.31  
+**Ch6** 2023.04.01 ~ 2023.04.07  
+**Ch7** 2023.04.08 ~ 2023.04.14  
+**Ch8** 2023.04.15 ~ 2023.04.21  
+**Ch9** 2023.04.22 ~ 2023.04.28  
+**Ch10** 2023.04.29 ~ 2023.05.04  
+**Ch11** 2023.05.05 ~ 2023.05.11
 ---
 # Git
 
