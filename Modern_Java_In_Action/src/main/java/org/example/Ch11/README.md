@@ -10,5 +10,6 @@
 
 ---
 ## issues
-
-- [Ch 11]
+---
+## [Ch 11] 11.3. 도메인 모델에 Optional을 사용했을 때 데이터를 직렬화할 수 없는 이유 (https://github.com/BanditBool2/ReadingRecord/issues/56#)
+- https://velog.io/@wlstj0901/CH11-11.3.-도메인-모델에-Optional을-사용했을-때-데이터를-직렬화할-수-없는-이유
